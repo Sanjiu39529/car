@@ -1,0 +1,21 @@
+# Shared-Ride Matching System Dependencies
+
+# SUMO TraCI
+traci>=1.20.0
+sumolib>=1.20.0
+
+# Database
+sqlite3  # Built-in with Python 3.x
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Testing
+pytest>=7.4.0
+
+# Utilities
+whichcraft>=0.6.1

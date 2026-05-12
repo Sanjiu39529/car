@@ -1,0 +1,20 @@
+载入 net-file (从 'data/net.net.xml') ... 完成 (48ms).
+正在从“data/routes.xml”中增量加载路线文件
+载入完成。
+仿真开始时间： 0.00。
+仿真于此时刻结束：89.00.
+Performance:
+ Duration: 10.01s
+ Real time factor: 8.89111
+ UPS: 888.211788
+Vehicles:
+ Inserted: 100
+ Running: 100
+ Waiting: 0
+Statistics (avg of 0):
+ RouteLength: 0.00
+ Speed: 0.00
+ Duration: 0.00
+ WaitingTime: 0.00
+ TimeLoss: 0.00
+ DepartDelay: 0.00
