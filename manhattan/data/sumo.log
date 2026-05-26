@@ -1,16 +1,28 @@
-载入 net-file (从 'data/net.net.xml') ... 完成 (48ms).
+***在端口（port) 49272 上启动服务器 % ***
+载入 net-file (从 'data/net.net.xml') ... 完成 (39ms).
 正在从“data/routes.xml”中增量加载路线文件
 载入完成。
 仿真开始时间： 0.00。
-仿真于此时刻结束：89.00.
+警告: Teleporting vehicle '374.0'; waited too long (yield), lane='C6D6_0', time=3255.00.
+警告: 车辆'374.0'在路段'D6E6'结束传送，时间=3262.00。
+警告: Teleporting vehicle '308.0'; waited too long (yield), lane='A7B7_0', time=6554.00.
+警告: 车辆'308.0'在路段'C7D7'结束传送，时间=6587.00。
+仿真于此时刻结束：7200.00.
+原因： TraCI 请求终止。
 Performance:
- Duration: 10.01s
- Real time factor: 8.89111
- UPS: 888.211788
+ Duration: 90.44s
+ TraCI-Duration: 70.88s
+ Real time factor: 79.6082
+ UPS: 39801.211813
+ UPS-Persons: 163833.353604
 Vehicles:
- Inserted: 100
- Running: 100
+ Inserted: 500
+ Running: 500
  Waiting: 0
+ Teleports: 2 (Yield: 2)
+Persons:
+ Inserted: 2980
+ Running: 0
 Statistics (avg of 0):
  RouteLength: 0.00
  Speed: 0.00
