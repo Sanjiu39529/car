@@ -1,5 +1,5 @@
-***在端口（port) 49272 上启动服务器 % ***
-载入 net-file (从 'data/net.net.xml') ... 完成 (39ms).
+***在端口（port) 50360 上启动服务器 % ***
+载入 net-file (从 'data/net.net.xml') ... 完成 (43ms).
 正在从“data/routes.xml”中增量加载路线文件
 载入完成。
 仿真开始时间： 0.00。
@@ -10,11 +10,11 @@
 仿真于此时刻结束：7200.00.
 原因： TraCI 请求终止。
 Performance:
- Duration: 90.44s
- TraCI-Duration: 70.88s
- Real time factor: 79.6082
- UPS: 39801.211813
- UPS-Persons: 163833.353604
+ Duration: 93.56s
+ TraCI-Duration: 73.27s
+ Real time factor: 76.9593
+ UPS: 38476.858780
+ UPS-Persons: 158381.931677
 Vehicles:
  Inserted: 500
  Running: 500
